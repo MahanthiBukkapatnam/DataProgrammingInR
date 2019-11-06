@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MahanthiBukkapatnam/DataProgrammingInR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Data Programming in R
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Item              | Value                                             |
+| :---------------- | :-----------------------------------------------  |
+| Degree            | Master of Science in Business Analytics           |
+| Course Number     | MSCI:6060:0EXA/0EXD Fall 2019                     |
+| Course Name       | Data Programming in R                             |    
+| Course Instructor | Adam Meeker                                       |
+| Semester          | Fall 2019                                         |
+| Location          | Mary and Papa John Educational Center, Des Moines |
+| Course Dates      | August 29, 2019 – November 07, 2019               |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  Project Team Name:  WE R DATA SCIENTISTS
 
-```markdown
-Syntax highlighted code block
+###  Project Team Members: 
+* Scientist 1: Ram Yellepeddi
+* Scientist 2: Danny Kramer
+* Scientist 3: Rebecca Johnson
+* Scientist 4: Mahanthi Bukkapatnam
 
-# Header 1
-## Header 2
-### Header 3
+### Question we are trying to answer:
+* Who is the MALE Tennis G.O.A.T of the open era?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MahanthiBukkapatnam/DataProgrammingInR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Presentation](FinalPresentation/MSCI-6060-0EXA-Fall19-FinalPresentation.pdf)
