@@ -23,4 +23,4 @@
 ### Question we are trying to answer:
 * Who is the MALE Tennis G.O.A.T of the open era?
 
-[Presentation](FinalPresentation/MSCI-6060-0EXA-Fall19-FinalPresentation.pdf)
+[Presentation](MSCI-6060-0EXA-Fall19-FinalPresentation.pdf)
