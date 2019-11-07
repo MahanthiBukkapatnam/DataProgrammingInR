@@ -15,12 +15,11 @@
 ###  Project Team Name:  WE R DATA SCIENTISTS
 
 ###  Project Team Members: 
-* Scientist 1: Ram Yellepeddi
-* Scientist 2: Danny Kramer
-* Scientist 3: Rebecca Johnson
+* Scientist 1: Ram **********
+* Scientist 2: Danny *******
+* Scientist 3: Rebecca ********
 * Scientist 4: Mahanthi Bukkapatnam
 
 ### Question we are trying to answer:
 * Who is the MALE Tennis G.O.A.T of the open era?
 
-[Presentation](MSCI-6060-0EXA-Fall19-FinalPresentation.pdf)
